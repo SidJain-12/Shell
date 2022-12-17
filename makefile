@@ -1,0 +1,2 @@
+main:
+	gcc -g main.c prompt.c input.c ls.c cd.c pwd.c echo.c color.c history.c pinfo.c foreground.c background.c discover.c redirection.c pipe.c signal_handling.c run_commands.c jobs.c autocomplete.c -o ssh

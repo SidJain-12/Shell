@@ -1,0 +1,13 @@
+ hi
+echo a
+echo de	
+echo headers.h
+history
+exit
+cat history.txt
+history
+exit
+h
+history
+history 5
+exit
